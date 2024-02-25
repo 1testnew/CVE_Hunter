@@ -41,6 +41,7 @@ Sec-Fetch-User: ?1
 
 Build the vulnerability environment according to the steps provided by the source code author and execute the poc provided above：
 
-​![image](assets/image-20240225145511-l0kkj0t.png)​
+​
+![image-20240225145511-l0kkj0t](https://github.com/1testnew/CVE_Hunter/assets/139985256/7f5f6232-67ef-4a4e-b2b3-7848910e89f4)
 
 ‍
