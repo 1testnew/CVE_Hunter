@@ -4,7 +4,7 @@
 
 The Web-based Student Clearance System in PHP Free Source Code (It is an open source project from [https://codeastro.com/](https://codeastro.com/)) has SQL injection vulnerabilities, which can lead to database information leakage.
 
-1. BUG_Author: Tr0e
+1. BUG_Author: tekun
 2. vendors: https://codeastro.com/membership-management-system-in-php-with-source-code/;
 3. The program is built using the PHP 7.3.4nts version;
 4. Vulnerability location: /get_membership_amount.php
